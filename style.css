@@ -1,0 +1,29 @@
+h1{
+    text-shadow: 5px 5px 10px red ;
+    font-size: 500%; 
+    color: pink; 
+    margin: auto;
+    text-align: center;
+
+}
+h2{ 
+    text-align: left;
+}
+#trans{color :olive;
+        transition: color 2s ease-in 1s; }
+#trans : hover {
+                 color :#fuchsia ; }
+span{
+    color: blue;  
+    border-bottom: 2px solid red; 
+    padding:  2px 5px; 
+    margin: 3px; 
+    font-size: 200%; 
+    display: inline-block;
+}
+body{
+    background-color: aliceblue;
+}
+p{
+    text-indent: 5%;
+}
